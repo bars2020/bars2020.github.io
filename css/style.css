@@ -31,9 +31,9 @@ Author: uiCookies.com
 # [Color codes]
 
 # Body  (text): #888
-# Heading Color #0E1555
-# Theme Color (link color) #C4820F
-# Mid grey (sub header) #666666
+# Heading Color #8c1515
+# Theme Color (link color) #2e2d29
+# Mid grey (sub header) #4d4f53
 # -------------------------------------------------------------------*/
 
 body {
@@ -52,7 +52,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     margin : 0 0 15px;
-    color  : #0e1555;
+    color  : #8c1515;
     }
 
 h1 {
@@ -94,7 +94,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #C4820F;
+    color              : #2e2d29;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -109,7 +109,7 @@ a:focus,
 
 a:navbar {
     text-decoration : none;
-    color           : #C4820F ;
+    color           : #2e2d29 ;
     }
 a:registration {
     text-decoration : none;
@@ -182,8 +182,8 @@ ul {
 .btn-default:focus,
 .btn-default:active:focus {
     background-color : transparent;
-    color            : #C4820F;
-    border-color     : #C4820F;
+    color            : #2e2d29;
+    border-color     : #2e2d29;
     }
 
 button:focus,
@@ -290,7 +290,7 @@ button:focus,
 
 .main-menu .nav li a:hover,
 .main-menu .nav li.active a {
-    color      : #C4820F;
+    color      : #2e2d29;
     background : transparent;
     }
 
@@ -337,7 +337,7 @@ button:focus,
     }
 
 .sticky-nav .nav li a {
-    color : #0e1555;
+    color : #8c1515;
     }
 
 .sticky-nav .navbar-toggle .icon-bar{
@@ -373,7 +373,7 @@ button:focus,
     }
 
 .jumbotron .content {
-    color             : #C4820F;
+    color             : #2e2d29;
     position          : absolute;
     top               : 50%;
     left              : 0;
@@ -583,7 +583,7 @@ button:focus,
     color            : #ffffff;
     padding          : 14px 40px;
     margin           : 0;
-    background-color : #0e1555;
+    background-color : #8c1515;
     }
 
 .pricing-section .pricing-head .price {
@@ -705,7 +705,7 @@ button:focus,
 .form-control:focus,
 .form-control:active {
     box-shadow   : none;
-    border-color : #C4820F;
+    border-color : #2e2d29;
     }
 
 
