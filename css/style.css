@@ -113,7 +113,7 @@ a:navbar {
     }
 a:registration {
     text-decoration : none;
-    color           : #003262 ;
+    color           : #8c1515 ;
     }
 a:active {
     text-decoration : none;
@@ -388,7 +388,7 @@ button:focus,
     }
 
 .jumbotron .content h1 {
-    color       : #003262;
+    color       : #8c1515;
     font-weight : bold;
     }
 
@@ -401,7 +401,7 @@ button:focus,
 .jumbotron .content .event-date {
     font-size     : 24px;
     margin-bottom : 40px;
-    color: #003262;
+    color: #8c1515;
     }
 
 .jumbotron .btn {
